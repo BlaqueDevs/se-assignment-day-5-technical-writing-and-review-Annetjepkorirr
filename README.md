@@ -9,5 +9,8 @@
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
-## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
-## 12. How can you succinctly convey the purpose and key features of a product?
+## 11. What should be included in the introduction of a Readme to immediately inform users about what does the product does?
+## 12. How can you succinctly convey the purpose and key features of a productss?
+
+THIS IS THE LINK TO MY ASSIGNMENT
+https://1drv.ms/w/s!AphNkYxVqfqsghTtvaC0PwgOKsnY?e=ytjJLI
